@@ -3,5 +3,5 @@ hi this is java class
     we can learn java 
        if we use java create application
          java is best programmig languge
-            
+         in java there are two tyes data 
           
